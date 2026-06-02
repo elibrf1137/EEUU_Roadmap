@@ -1,0 +1,63 @@
+BLOQUE 1: INFRAESTRUCTURA BASE Y ENTORNOS (Semanas 1 - 2)
+
+Tu objetivo actual. No puedes escribir código de producción si no dominas las venas del sistema operativo.
+
+    La Terminal (CLI): Automatizar tu flujo de trabajo sin tocar el ratón. Navegación, gestión de permisos, variables de entorno de sistema.
+
+    Git y GitHub Avanzado: El estándar de la industria. Gestión de ramas paralelas (feature branches), flujos de trabajo en equipo (Gitflow), resolución de conflictos crudos de código, y creación de Pull Requests documentados.
+
+    Markdown (.md): Escribir documentación técnica impecable. En EE. UU., si tu código no está perfectamente documentado de forma asíncrona, no sirve.
+
+BLOQUE 2: ALGORITMIA, LÓGICA PURA Y POO (Semanas 3 - 6)
+
+Aquí es donde tu cerebro aprende a pensar como una máquina. Olvídate de los frameworks; primero va la lógica.
+
+    Sintaxis Dinámica y Control: Bucles óptimos, condicionales limpios y manejo estricto de excepciones (try-except) para que tu servidor nunca se caiga por un dato inesperado.
+
+    Estructuras de Datos Nativas: Dominar Listas, Diccionarios, Sets y Tuplas. Entender el coste computacional y de memoria de cada una.
+
+    Programación Orientada a Objetos (POO): Modelar el mundo real en código a través de Clases, Objetos, Herencia, Polimorfismo y Encapsulación de datos.
+
+    Procesamiento de Archivos: Lectura y escritura limpia de formatos de intercambio de datos masivos (JSON, CSV).
+
+BLOQUE 3: LA ARQUITECTURA DE DATOS (Semanas 7 - 9)
+
+Las aplicaciones van y vienen, pero los datos son sagrados. Un ingeniero backend vive y muere por su base de datos.
+
+    Bases de Datos Relacionales (PostgreSQL): El estándar absoluto de la industria para datos estructurados y seguros.
+
+    Diseño de Esquemas: Crear tablas eficientes, definir claves primarias y foráneas, y garantizar la integridad referencial del sistema.
+
+    SQL Avanzado: Escribir consultas de alto rendimiento. Filtrados complejos, funciones de agregación y la joya de la corona americana: los JOINS para conectar múltiples fuentes de datos sin saturar el servidor.
+
+BLOQUE 4: DESPLIEGUE DE APIs REST EN PRODUCCIÓN (Semanas 10 - 14)
+
+Aquí conectamos tu lógica de Python con tu base de datos y abrimos los puertos al mundo exterior.
+
+    El Protocolo HTTP: Dominar cabeceras, métodos (GET, POST, PUT, DELETE) y la gestión estricta de códigos de estado (200, 201, 400, 403, 404, 500).
+
+    Desarrollo con FastAPI: El framework moderno de Python más rápido y demandado. Validación de datos en tiempo de ejecución con Pydantic.
+
+    Mapeo Objeto-Relacional (ORM): Conectar tu código de Python con PostgreSQL de forma segura usando SQLAlchemy o SQLModel para evitar inyecciones SQL.
+
+    Seguridad y Autenticación: Implementar flujos robustos de OAuth2 y tokens JWT (JSON Web Tokens) para encriptar los accesos de los usuarios.
+
+BLOQUE 5: CONTENERIZACIÓN Y ENTORNOS EN LA NUBE (Semanas 15 - 18)
+
+A las empresas de EE. UU. no les importa si el código funciona en tu ordenador. Tiene que funcionar en cualquier servidor del planeta.
+
+    Docker: Aprender a empaquetar tu API, tus variables de entorno y tu base de datos dentro de contenedores aislados y ligeros.
+
+    Orquestación Básica: Utilizar Docker Compose para levantar todo tu ecosistema (Servidor + Base de Datos + Caché) con un solo comando en la terminal.
+
+    Despliegue Cloud (AWS / GCP): Subir tus contenedores a la infraestructura en la nube de Amazon o Google, configurando redes, puertos seguros y almacenamiento externo.
+
+BLOQUE 6: EL ESTÁNDAR AMERICANO Y PORTFOLIO (Semanas 19+)
+
+La fase final. Convertirte en un producto de élite elegible para contratación internacional.
+
+    CI/CD (Automatización): Configurar GitHub Actions para que cada vez que hagas un git push, tu código pase tests automatizados y se despliegue solo en la nube sin intervención humana.
+
+    Prueba de Trabajo Real (Proof of Work): Construir una aplicación backend compleja y con impacto (ej: tu propio sistema de analíticas o un clon de la API de Spotify blindado y escalable).
+
+    Inglés Técnico de Negocios: Simular entrevistas técnicas de arquitectura de sistemas y optimizar tu documentación para defender decisiones de código ante un equipo de ingenieros en San Francisco.
